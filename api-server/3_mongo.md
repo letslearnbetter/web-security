@@ -31,3 +31,7 @@ const mongoose = require('mongoose');
 // DB Setup
 mongoose.connect('mongodb://localhost:auth/auth'); // Creates a new database in mongoDB called auth
 ```
+
+## Next Up
+
+[Creating controllers to handle incoming requests](4_controllers.md)

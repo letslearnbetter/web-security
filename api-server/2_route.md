@@ -28,4 +28,4 @@ module.exports = function(app) {
 Access `localhost:3090` from the broweser and notice that the response JSON shows up.
 
 ## Next up
-[Set up mongoDB](Mongo.md)
+[Set up mongoDB](3_mongo.md)
